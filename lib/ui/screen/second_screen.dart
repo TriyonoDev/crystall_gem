@@ -11,7 +11,7 @@ class _SecondScreenState extends State<SecondScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        body: Text('Second Screen'));
-
+      body: Text('Second Screen'),
+    );
   }
 }
